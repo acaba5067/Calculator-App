@@ -51,7 +51,7 @@ form input.operator{
 @media(max-width:768px)
 {
     .container{
-        width: 740px;
+        width: 70%;
         margin-top: 100px;
     }
     .calculator{
