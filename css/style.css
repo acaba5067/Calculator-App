@@ -52,12 +52,10 @@ form input.operator{
 {
     .container{
         width: 740px;
-        margin: auto;
-        height: 100%;
+        margin-top: 100px;
     }
     .calculator{
-        width: 80%;
-        margin: auto;
+
     }
 
 
