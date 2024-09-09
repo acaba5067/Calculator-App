@@ -50,7 +50,9 @@ form input.operator{
 }
 @media(ma-width:768px)
 {
-    .container{
+    .calculator{
         width: 80%;
     }
+
+
 }
